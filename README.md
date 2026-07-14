@@ -150,7 +150,3 @@ yolo detect predict model=runs/detect/train/weights/best.pt source=path/to/image
 ```
 
 > Commands above are illustrative — adjust to match your actual scripts and repo layout.
-
-## Authors
-
-> _Add author names and affiliation here._
